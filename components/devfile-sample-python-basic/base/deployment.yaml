@@ -10,7 +10,7 @@ metadata:
     app.kubernetes.io/part-of: load-app-a29728a8-13dc-48b6-b8c0-1a04bd9ed6e3
   name: devfile-sample-python-basic
 spec:
-  replicas: 1
+  replicas: 0
   revisionHistoryLimit: 0
   selector:
     matchLabels:
